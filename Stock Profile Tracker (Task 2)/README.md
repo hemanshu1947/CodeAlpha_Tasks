@@ -19,13 +19,10 @@ A simple Python console application that calculates total investment value based
 
 ```text
 stock-portfolio-tracker/
-├── stock_portfolio_tracker.py
+├── Stock Portfolio Tracker.py
 ├── README.md
-├── requirements.txt
-├── .gitignore
-├── LICENSE
-└── assets/
-    └── output-screenshot.png
+├── Stock_Profile_Tracker.png
+
 ```
 
 ## How to Run
@@ -33,7 +30,7 @@ stock-portfolio-tracker/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/stock-portfolio-tracker.git
+git clone https://github.com/your-username/Stock-Portfolio-Tracker(Task 2).git
 cd stock-portfolio-tracker
 ```
 
@@ -59,17 +56,7 @@ TSLA -> Quantity: 2, Investment: $500
 Total Investment Value: $1040
 ```
 
-## Screenshot
 
-Add your output screenshot inside the `assets` folder and name it:
-
-```text
-output-screenshot.png
-```
-
-Then it will appear here:
-
-![Output Screenshot](assets/output-screenshot.png)
 
 ## What I Learned
 
@@ -79,5 +66,5 @@ Then it will appear here:
 - Displaying formatted console output
 
 ## Author
-
+Hemanshu M
 Created as a Python beginner project.
