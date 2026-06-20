@@ -70,5 +70,5 @@ Attempts Left: 6
 - Displaying formatted console output
 
 ## Author
-
+Hemanshu M
 Created as a Python beginner project.
