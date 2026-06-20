@@ -18,13 +18,11 @@ A simple rule-based console chatbot built with Python. It replies to predefined 
 
 ```text
 basic-chatbot/
-├── basic_chatbot.py
+├── Basic Chatbot.py
 ├── README.md
-├── requirements.txt
-├── .gitignore
-├── LICENSE
-└── assets/
-    └── output-screenshot.png
+├── Basic_Chatbot.png
+├── 
+
 ```
 
 ## How to Run
@@ -56,17 +54,7 @@ You: bye
 Bot: Goodbye! Have a nice day.
 ```
 
-## Screenshot
 
-Add your output screenshot inside the `assets` folder and name it:
-
-```text
-output-screenshot.png
-```
-
-Then it will appear here:
-
-![Output Screenshot](assets/output-screenshot.png)
 
 ## What I Learned
 
@@ -76,5 +64,5 @@ Then it will appear here:
 - Displaying formatted console output
 
 ## Author
-
+Hemanshu M
 Created as a Python beginner project.
