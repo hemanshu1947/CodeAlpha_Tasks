@@ -30,7 +30,7 @@ basic-chatbot/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/basic-chatbot.git
+git clone https://github.com/your-username/Basic-Chatbot-(Task-3).git
 cd basic-chatbot
 ```
 
