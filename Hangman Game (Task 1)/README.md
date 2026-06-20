@@ -1,4 +1,4 @@
-# Hangman Console Game
+# Hangman  Game
 
 A Python console-based Hangman game with multiple word categories, ASCII hangman stages, scoring, attempts, and input validation.
 
@@ -19,13 +19,10 @@ A Python console-based Hangman game with multiple word categories, ASCII hangman
 
 ```text
 hangman-console-game/
-├── hangman_console.py
+├── Hangman_Console.py
 ├── README.md
-├── requirements.txt
-├── .gitignore
-├── LICENSE
-└── assets/
-    └── output-screenshot.png
+├── Hangman_game.png
+
 ```
 
 ## How to Run
@@ -33,8 +30,8 @@ hangman-console-game/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/hangman-console-game.git
-cd hangman-console-game
+git clone https://github.com/your-username/Hangman-Game-(Task 1).git
+cd Hangman-Game-(Task 1)
 ```
 
 2. Run the Python file:
@@ -63,17 +60,7 @@ Word: _ _ _ _ _ _
 Attempts Left: 6
 ```
 
-## Screenshot
 
-Add your output screenshot inside the `assets` folder and name it:
-
-```text
-output-screenshot.png
-```
-
-Then it will appear here:
-
-![Output Screenshot](assets/output-screenshot.png)
 
 ## What I Learned
 
